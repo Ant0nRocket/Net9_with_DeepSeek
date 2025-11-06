@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "T_0001_MemoryManagement_HeapAndStack", "T_0001_MemoryManagement_HeapAndStack", "{BA5D85DE-F672-21BB-A87D-1652E885FF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T_0001_Code", "T_0001_MemoryManagement_HeapAndStack\T_0001_Code\T_0001_Code.csproj", "{CBBC6D06-8168-D82A-A5B7-253D1425A9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBC6D06-8168-D82A-A5B7-253D1425A9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBC6D06-8168-D82A-A5B7-253D1425A9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBC6D06-8168-D82A-A5B7-253D1425A9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBC6D06-8168-D82A-A5B7-253D1425A9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CBBC6D06-8168-D82A-A5B7-253D1425A9AD} = {BA5D85DE-F672-21BB-A87D-1652E885FF4E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E52F8FD-C5BF-4E6A-8B00-4821D358EEAD}
+	EndGlobalSection
+EndGlobal
